@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukund</h1>
 <h3 align="center">A passionate backend (NodeJs) Developer along with Devops (Containerization and deployment)</h3>
 
-- 🔭 I’m currently working as **backend engineer at The Internet Folks (Saas)**
+- 🔭 I’m currently working as **software engineer at The Internet Folks (Saas)**
 
 - 🌱 I’m currently learning **NextJs 14, Docker, AWS**
 
