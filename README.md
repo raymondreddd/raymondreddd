@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mukund</h1>
-<h3 align="center">A passionate backend (NodeJs) Developer along with Devops (Containerization and deployment)</h3>
+<h3 align="center">A passionate software engineer and Backend Lead</h3>
 
 - 🔭 I’m currently working as **software engineer at The Internet Folks (Saas)**
 
