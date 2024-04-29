@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mukund</h1>
 <h3 align="center">A passionate software engineer and Backend Lead</h3>
 
-- 🔭 I’m currently working as **software engineer at The Internet Folks (Saas)**
+- 🔭 I’m currently working as **Full Stack Software engineer at Suggaa Ventures**
 
-- 🌱 I’m currently learning **NextJs 14, Docker, AWS**
+- 🌱 I’m currently learning **Scalable Architecture & Design**
 
 - 📝 I regularly write articles on [backend practices on X](backend practices on X)
 
