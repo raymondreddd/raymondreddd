@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **bishtmukund01@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1tZ24TcLgvBbjiAzsf6ztxNJpKCPckN--/view?usp=drive_link](https://drive.google.com/file/d/1tZ24TcLgvBbjiAzsf6ztxNJpKCPckN--/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
