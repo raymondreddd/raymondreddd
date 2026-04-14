@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukund</h1>
-<h3 align="center">A passionate software engineer and Backend Lead</h3>
+<h3 align="center">A passionate software and AI engineer</h3>
 
-- 🔭 I’m currently working as **Full Stack Software engineer at Suggaa Ventures**
+- 🔭 I’m currently working as **Senior Software engineer at Fiber AI (YC S23)**
 
 - 🌱 I’m currently learning **Scalable Architecture & Design**
 
